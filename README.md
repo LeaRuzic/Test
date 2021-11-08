@@ -1,2 +1,2 @@
 # Test
-Experimenting with the first repository in GitGub.com
+Experimenting with the first repository in GitHub.com
